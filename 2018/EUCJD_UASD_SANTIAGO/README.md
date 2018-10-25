@@ -5,7 +5,7 @@
 
 ### Fundamentos de Java / 15 consejos prácticos sobre Java que cambiarán la forma en que codificas
 
-> [Eudris Cabrera](https://twitter.com/eudriscabrera)
+[Eudris Cabrera](https://twitter.com/eudriscabrera)
 
 Abordaremos varios temas sobre características fundamentales que todo programador Java debe tener en cuenta. Así como también, trataremos técnicas y mejores prácticas para producir software con menos bug.
 
